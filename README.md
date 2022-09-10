@@ -1,4 +1,4 @@
-# Robot_Appium
+# Robot Appium
 The objective of this project is to reinforce my studies in robot using appium to perform the automation of mobile tests.
 
 <p align="center">
